@@ -1,0 +1,1 @@
+Mix.copyDirectory('resources/fonts', 'public/fonts');
