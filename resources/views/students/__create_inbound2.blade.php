@@ -8,13 +8,12 @@
                 </svg>
             </a>
             <p class="text-2xl font-bold grow">
-                เพิ่มข้อมูลนิสิต Inbound
+                เพิ่มข้อมูลนิสิต Inboundd
             </p>
     </div>
 
     <div class="content-container">
         <div class="max-w-7xl mx-auto">
-            {{-- <p class="sem-year-head">{{ $selected_semester }} / {{ $selected_year }}</p> --}}
             <div class="py-2">
                 <form action="{{route('student.store')}}" method="POST" enctype="multipart/formdata">
                     @csrf 
