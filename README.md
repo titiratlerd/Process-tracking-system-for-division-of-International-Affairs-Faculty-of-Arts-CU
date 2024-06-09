@@ -1,5 +1,4 @@
 <h2>Features</h2>
-<li>Users (General</li>
 <li>Staff can Create , read , Update and Delete exchange students data to the system (CRUD)</li>
 <li>Staff can Mark thier to do list amd Track thier working processes</li>
 <li>Staff can Mark to-do-with-each-student processs./li>
@@ -8,5 +7,7 @@
 
 <hr>
 <h2>To run</h2>
-<li>Pls install Xampp, start Apache & mySql server</li>
+<li>1. Pls install Xampp, start Apache & mySql server</li>
+<li>2. run php artisan serve</li>
+<li>2. run npm run dev</li>
 
