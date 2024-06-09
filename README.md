@@ -8,6 +8,9 @@
 <hr>
 <h2>To run</h2>
 <li>1. Pls install Xampp, start Apache & mySql server</li>
-<li>2. run php artisan serve</li>
-<li>2. run npm run dev</li>
+<li>2. run these code in the terminal 
+    php artisan serve</li>
+
+    ```ppp```
+<li>3. run npm run dev</li>
 
