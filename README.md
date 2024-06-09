@@ -9,10 +9,12 @@
 <h2>To run</h2>
 <p>1. Pls install Xampp, start Apache & mySql server</p>
 <p>2. run these code in the terminal</p>
+
 ```
 function test() {
   console.log("notice the blank line before this function?");
 }
 ```
+
 <li>3. run npm run dev</li>
 
