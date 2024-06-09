@@ -9,6 +9,6 @@
 <h2>To run</h2>
 <p>1. Pls install Xampp, start Apache & mySql server</p>
 <p>2. run these code in the terminal</p>
-<p>```php artisan serve```</p>
+```php artisan serve```
 <li>3. run npm run dev</li>
 
